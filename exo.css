@@ -1,0 +1,24 @@
+#total{
+    background-color: #00796B;
+    height: 900px;
+    width: 100%;
+}
+
+
+#villes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    margin-left: 45%;
+
+}
+
+#horloge{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 3em;
+    color: white;
+}
+
